@@ -1,10 +1,23 @@
-# Hell0  Everyone! I am Vedant Ravindra Domde
+# Name:-Vedant Ravindra Domde
 
-### this frontend static webiste
+## Project Name:-Food restuarant Homepage.
 
-## see my final website below
+### My final is below.
 
-![homepage](homepage.jpg.png)
+![homepage](thumbnail.png)
 
-- Time Taken:-5 hour 48 min
+- Time Taken:-1 hour 48 min
+
+## Technologies
+Project is created with:
+* HTML5
+* CSS3
+* flexbox
+* SVG img
+
+## Experience got on this project:-
+         * Learn first time how to used flex in CSS
+
+
+ Project link [Deploy link]((https://vedantdomde.github.io/foodfrontendwebsite/).         
 
